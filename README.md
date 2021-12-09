@@ -1,5 +1,5 @@
 # What is this?
-This is a modified version of [GL.iNet's bleScanner tool](https://github.com/gl-inet/sdk) that sends encoded raddec strings to a Pareto Anywhere server, instead of outputting the scan results as JSON strings. The program filters for [Minew's beacons](https://www.minew.com/) and sends only those to the server.
+This is a modified version of [GL.iNet's bleScanner tool](https://github.com/gl-inet/sdk) that sends [encoded raddec](https://github.com/reelyactive/raddec) strings to a [Pareto Anywhere](https://github.com/reelyactive/pareto-anywhere) server, instead of outputting the scan results as JSON strings. The program filters for [Minew's beacons](https://www.minew.com/) and sends only those to the server.
 
 # How do I compile this?
 Use [GL.iNet's BLE SDK](https://github.com/gl-inet/gl-ble-sdk) and follow their instructions.
